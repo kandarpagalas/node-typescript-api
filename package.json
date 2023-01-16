@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kandarpagalas/node-typescript-api/issues"
   },
-  "homepage": "https://github.com/kandarpagalas/node-typescript-api#readme"
+  "homepage": "https://github.com/kandarpagalas/node-typescript-api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.5.0"
+  }
 }
