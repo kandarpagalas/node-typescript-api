@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist", // Onde vai salvar o arquivo .js
+    "module": "commonjs", //para usar o import
+    "target": "es2019", // padrão ES que será gerado, permite compatibilidade
+    "esModuleInterop": true, // fazer conversão entre import / requere
+    "allowJs": true, // permite arquivos de conffiguração .js
+  }
+}
